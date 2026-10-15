@@ -1,0 +1,8 @@
+# Sales data files - never commit
+*.xlsx
+*.csv
+
+__pycache__/
+*.pyc
+venv/
+.venv/
